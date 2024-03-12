@@ -1,5 +1,5 @@
 # Heavy Data
 
-by [Vic Fieger](http://www.vicfieger.com/)
+by [Vic Fieger](http://vicfieger.com/)
 
 Version: 1
